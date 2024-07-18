@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E6VQxUMwRls=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timot\\source\\repos\\BriarSinger_Class\\BriarSinger_Class\\BriarSinger_Class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timot\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
