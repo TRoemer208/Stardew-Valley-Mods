@@ -2,7 +2,7 @@
   "Name": "BriarSinger_Class",
   "Author": "Teoshen",
   "Version": "1.0.0",
-  "Description": "Adds a witch-themed gish combat and utility class to the game.",
+  "Description": "Adds a witch/druid-themed gish combat and utility class to the game.",
   "UniqueID": "Teoshen.BriarSinger_Class",
   "EntryDll": "BriarSinger_Class.dll",
   "MinimumApiVersion": "4.0.0",
